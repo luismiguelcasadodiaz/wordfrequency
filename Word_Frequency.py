@@ -11,6 +11,7 @@ This Script receives a parameter the text file to analyse
 
 """
 import sys
+import os
 
 def process_file(lines):
     pass
@@ -19,7 +20,11 @@ def show_frecuencies(dict):
 
 if __name__ == "__main__":
     try:
-        with open(sys.argv[1]) as f:
+        my_directory = os.getcwd()
+        print(my_directory)
+        my_file = os.path.join(my_directory, sys.argv[1])
+        print(my_file)
+        with open(my_file,'r') as f:
             lines = f.readlines()
             frecuencies=process_file(lines)
     except:
