@@ -29,17 +29,24 @@ def show_frecuencies(mydict):
 
     for k,v in res.items():
         print (k,":",v)
-    
+
+def write_frecuencies(mydict, out_file):
+    res = {val[0] : val[1] for val in sorted(mydict.items(), key = lambda x: (x[0], x[1]))}
+    print(out_file)
+
+    with open(out_file,encoding='utf-8',mode='w') as f:
+        for k,v in res.items():
+            f.write(k+":"+str(v)+"\n")
+        f.close()
 
 if __name__ == "__main__":
     my_directory = os.getcwd()
-    print(my_directory)
     my_file = os.path.join(my_directory, sys.argv[1])
     print(my_file)
     with open(my_file,encoding='utf-8') as f:
          lines = f.readlines()
          frecuencies=process_file(lines)
-         show_frecuencies(frecuencies)
+         write_frecuencies(frecuencies,my_file+"s")
 
         
             

@@ -1,0 +1,496 @@
+El Órgano de 
+Administración de las 
+Sociedades de Capital
+Mª Rosa Navarro Díaz . Registradora de la Propiedad y Mercantil y de Bienes Muebles
+castellon@registromercantil.org
+1. Introducción
+Dos órganos necesarios:
+a)	La Junta General expresa voluntad de los socios.  (Art.159 LSC, asuntos propios de la competencia de la junta).
+b)	El Órgano de Administración, su función es la gestión y representación de la sociedad.
+-Según el art. 23.f) LSC deben constar en los estatutos: “El modo de deliberar y adoptar sus acuerdos los órganos colegiados de la sociedad.”
+-Art 26.1 CCoM, las sociedades llevarán un libro o libros de actas 
+El modo de organizar la constitución es: 
+2. Normas 
+	-contenido estatutario. 
+Comunes al -requisito mínimo de los estatutos. (art. 23, e LSC)
+Órgano de 
+AdministracióEl MODO O MODOS DE ORGANIZAR LA ADMINISTRACIÓN DE LA SOCIEDAD, el NÚMERO de 
+n.administradores o, al menos, el número máximo y el mínimo, así como el PLAZO DE DURACIÓN del cargo y el SISTEMA DE RETRIBUCIÓN, si la tuvieren.
+ 
+	2.1. Regulación legal En el art 210 LSC:
+	“1. La administración de la sociedad se podrá confiar a un administrador único, a varios administradores que actúen de forma solidaria o de forma conjunta o a un consejo de administración.
+	2. En la sociedad anónima, cuando la administración conjunta se confíe a dos administradores, éstos actuarán de forma mancomunada y cuando se confíe a más de dos administradores, constituirán consejo de administración.
+	3. En la sociedad de responsabilidad limitada los estatutos sociales podrán establecer distintos modos de organizar la administración atribuyendo a la junta de socios la facultad de optar alternativamente por cualquiera de ellos sin necesidad de modificación estatutaria
+	También es posible en las SA ya que fue modificado el art. 23.e  en reforma 2011
+	“Cláusula ambulatoria”: También en los los estatutos tipo de las sociedades aprobadas por Orden de Justicia  de 9 de septiembre de 2015, que además no prevén el consejo.
+	4. Todo acuerdo que altere el modo, se consignará en escritura pública y se inscribirá en el Registro Mercantil.
+En el Reglamento del RM se prevé:
+	SA - Art. 124)
+	1 En los estatutos se hará constar la estructura del órgano de administración, que puede ser a) A un administrador único b) A varios administradores que actúen solidariamente c) A dos administradores que actúen conjuntamente d) A un Consejo de Administración, integrado por un mínimo de tres miembros.
+2)	En los estatutos se hará constar también a qué administradores se confiere el poder de representación, de conformidad con las siguientes reglas …
+Prevé:
+·Consejeros delegados
+·Comité consultivo; deberá determinarse en los estatutos: 
+-La competencia para el nombramiento y revocación del comité  
+-Composición y funcionamiento
+- Retribución 
+-Número de miembros
+-Cualquier otro órgano cuya función sea meramente honorífica
+3.	Se indicará el número de administradores o, al menos, el máximo y el mínimo de éstos, el plazo de duración de su cargo y el sistema de retribución, si la tuvieren. Salvo disposición contraria de los estatutos la retribución correspondiente a los administradores será igual para todos ellos.
+4.	 No podrán inscribirse en el Registro Mercantil las enumeraciones de facultades del órgano de administración que sean consignadas en los estatutos.
+5.	Sociedad anónima europea:el sistema de administración; monista o dual.
+-Si se opta por el sistema de administración dual:
+órgano de dirección. consejo de control.
+ 
+ 
+Son también órganos de la sociedad:
+	Consejeros delegados
+	Comisiones ejecutivas del consejo
+	Interventores 
+	Liquidadores
+RRM arts. 124 para SA y 185 para SL: comité consultivo y cualquier otro órgano cuya función sea puramente honorífica.
+NO lo son los auditores.
+EL GERENTE art.181 LSC
+	STS de 20 de octubre de 1998, previsto en los Estatutos de la sociedad, órgano unipersonal, si no apoderado general
+	Doctrina- no parece suficiente para entender que estamos ante un órgano social en sentido propio, sino ante altos cargos, (Real Decreto 1382/1985, de 1 de agosto). 
+2.2. Las Competencias
+	A.	JUNTA GENERAL
+Art.160 LSC )
+	Aprobación de Cuentas 
+	El nombramiento y separación de los administradores,  liquidadores y, en su caso, de los auditores de cuentas y acción de responsabilidad
+	La modificación de los estatutos
+	Supresión o limitación del Derecho de suscripción preferente 
+	Activos esenciales
+	Transformación, fusión, escisión o cesión global de activo y pasivo y el traslado de domicilio al extranjero Disolución 
+	Balance de Liquidación
+	Otros asuntos que determinen la ley o los estatutos.
+Limitaciones:
+-Funciones atribuidas el órgano de administración, sin perjuicio del  artículo 161 que permite intervenir en asuntos de gestión- salvo disposición contraria de los estatutos, podrá impartir instrucciones al órgano de, sin perjuicio de su eficacia meramente interna.
+-Acuerdos contrarios ley, estatutos o interés social Art. 204 LSC.
+-Acuerdos que atenten contra los derechos de los socios o que contra su voluntad les impongan nuevas obligaciones. (arts. 291, 292 y 293 LSC)
+	B. ÓRGANO DE ADMINISTRACIÓN
+Art. 209 LSC) “Es competencia de los administradores la gestión y la representación de la sociedad en los términos establecidos en esta ley” se extenderá a todos los actos comprendidos en el objeto social artículo 234 LSC.
+	En el caso de socio único ejerce las funciones de junta y sus decisiones son ejecutables, teniendo facultad certificante de sus decisiones (art. 15 LSC y 109 RRM)
+2.3. ÓRGANO DE GESTIÓN Y REPRESENTACIÓN. 
+ALCANCE DE LA REPRESENTACIÓN ORGÁNICA. LA REPRESENTACIÓN VOLUNTARIA
+Actuación del órgano de administración: 
+	interna: la gestión
+	externa: la representación 
+Art 233.1 LSC “La representación de la sociedad, en juicio o fuera de él, corresponde a los administradores en la forma determinada por los estatutos”. La representación: 
+-	órgano de administración (representación orgánica) .  Ámbito determinado legalmente.
+-	apoderados voluntarios (representación voluntaria).
+· El ámbito es el resultante de las facultades conferidas.
+	I.Representación ORGÁNICA:
+Art. 233.2  LSC la atribución del poder de representación
+	·Administrador único
+	Varios administradores solidarios
+	Administradores conjuntos:
+o SRL o SA
+	Consejo de administración
+	Delegación por el propio Consejo
+Alcance de la representación orgánica 
+Art. 234:“1. La representación se extenderá a todos los actos comprendidos en el objeto social delimitado en los Estatutos. 
+Cualquier limitación de las facultades representativas de los administradores, aunque se halle inscrita en el Registro Mercantil, será ineficaz frente a terceros. 
+2. La sociedad quedará obligada frente a terceros que hayan obrado de buena fe y sin culpa grave, aun cuando el acto no está comprendido en el objeto social”.
+Dos interpretaciones:
+	Literal
+	Amplia
+➢TS sigue tesis amplia.
+➢DGRN ha desarrollado la teoría de los “actos sociales”:
++ Actos sociales: desarrollan el objeto social + Actos neutros o polivalentes.
++ Actos claramente contrarios al objeto social. Liquidatorios
+Cláusulas estatutarias: cláusulas sobre las facultades:
+amplían sus facultades más allá del objeto social . Rechazables
+	cláusulas de limitación su admisibilidad es indiscutible, aunque su eficacia será meramente interna. art. 124.4 RRM para SA y el 185 RRM
+Si se inscribe deberá añadirse que lo es sólo a efectos internos (RDG 4 de abril de 2016).
+	II.-Representación VOLUNTARIA:
+1. El nombramiento de apoderados corresponde únicamente a los administradores y se regirá por las reglas de la representación mercantil:
+La sustitución del Poder en el ámbito mercantil:
+	No podrá sustituir sus facultades, salvo autorización expresa para ello; Cfr Resolución de la DGRN de 21 de marzo de 2017
+	En cualquier caso son inscribibles en unos casos obligatoriamente (los generales, su revocación y sustitución y otras voluntariamente (general para pleitos y para actos concretos) art 94.5 del RRM. 
+	Según el artículo 95 RRM deberán constar en escritura pública. Pero, podrán ser conferidos en documento electrónico(art 41 Ley 27 septiembre 2013 ).
+2. Concurrencia en una misma persona de ambos tipos de representación; orgánica y voluntaria. a).- Supuestos admitidos:
+	Resolución de 12 de septiembre de 1994. Apoderamiento reciproco mancomunados
+	Resolución de la DGRN de 18 de julio de 2012.Un solidario a otro
+	Resolución de la DGRN de 28 de febrero de 2019. Dos mancomunados a oto con uno de aquellos
+
+b).- Supuestos no admitidos:
+	Resoluciones de 24 de junio de 1993 y 27 de febrero de 2003. al administrador único
+	Resolución de la DGRN de 10 de septiembre de 2019. a la persona física representante de la jdca administradora
+	Resolución de 24 de noviembre de 1998. Unico a su favor con otra persona
+	Resolución de 10 de junio de 2016. dos mancomunados a ellos conjuntamente
+
+2.4 CAPACIDAD(arts 212 y ss LSC)
+	Podrán ser personas físicas o jurídicas . Las Sa Cotizadas los consejeros siempre físicas (reforma 2021)
+	Salvo disposición contraria en estatutos  no se requiere tener la condición de socio→salvo cooptación
+	Si es una persona jurídica, el 212 bis dice que deberá designar a una persona natural (143 RRM) 
+	Pueden serlo los menores de edad emancipados,
+	Los estatutos o la legislación especial pueden incluir condiciones específicas
+	La determinación del número de administradores si solo constan el máximo y el mínimo en los estatutos, corresponde a la J. General.
+PROHIBICIONES (art. 213 LSC)
+	Menores de edad no emancipados
+	Inhabilitadas conforme a la Ley Concursal 
+	Delitos 
+	Incompatibilidad legal 
+El RRM, en relación a la Ley Concursal prevé en el art. 61.bis comprobar la eventual existencia de una inhabilitación vigente 
+	2.5 ADMINISTRADORES PERSONAS JURIDICAS.
+Si es una persona jurídica, el 212 bis dice que:
+	Deberá designar a una sola persona natural, cuya revocación no surtirá efecto mientras no se designe sustituto.(143 RRM) .
+	Debe designar a una persona física que la ejercite las funciones, sin que sea necesario que sea su administrador.
+	Debe constar inscrita en el RM de modo simultáneo a la inscripción del administrador persona jurídica, y continua en caso de reelección a menos que se le sustituya (art 143.1 RRM). Se le aplican las mismas prohibiciones y responde solidariamente con el administrador (236 LSC).Requiere aceptación (RDG 11/12/19)
+La designación y sustitución de la persona física corresponde al órgano de administración de la sociedad nombrada; 
+	al administrador de la persona jurídica nombrada según la Resolución de la DGRN de 10 de julio de 2013 ya que se trata de un acto de gestión art. 234.1.2 LSC: «no existe incluso inconveniente alguno a que el propio administrador único se designe a sí mismo.»
+	Otra posibilidad es que la designación la efectúe un apoderado con facultades suficientes. Resolución de la DGRN de 11 de diciembre de 2019.
+El juego de varias sociedades administradoras: Resolución de la DGRN de 18 de mayo de 2016
+La inscripción requerirá documento público o sólo una certificación del acuerdo del órgano competente, conforme a las reglas generales (142 RRM). Resolución de la DGRN de 3 de junio de 1999 en escritura pública, excepto en los supuestos en que, por ser el designado miembro del órgano de administración, baste la certificación del correspondiente acuerdo.
+	Si el órgano de administración decide que sea el administrador único, o uno de los solidarios, o uno de los mancomunados o un miembro del Consejo de Administración no se exige escritura pública, siendo suficiente la certificación del órgano de administración (con firmas legitimadas o electrónicas y cargo inscrito).
+	Ha de ser una sola persona natural. (RDG 3 junio 1999).
+2.6 TITULO INSCRIBIBLE
+Art 142 RRM)
+1.Certificación del acta de la Junta General o, en su caso, del Consejo confirma legitimada o electrónica (RDG 16/09/22), testimonio notarial del acta o copia del acta notarial de la junta.
+2.También mediante escritura pública.
+A)  Nombramiento
+	-Los primeros administradores deberán figurar necesariamente en la escritura fundacional (Art. 22 LSC).
+	-Los posteriores (Arts. 214 y 215 LSC arts. 141 a 154 RRM)
+La competencia para el nombramiento de los administradores corresponde a la junta de socios sin más excepciones que las establecidas en la ley (214.1 LSC)
+	Excepciones.sistema proporcional y cooptación de SA. Se puede prever en estatutos el sistema proporcional  (STS 6 de marzo 2009 y RDG 28 de marzo de 2022)  
+	Salvo disposición en contra en estatutos es posible nombrar suplentes de los administradores, pero su nombramiento y aceptación se inscribirán en el RM una vez producido el cese del anterior titular.  Se entenderá efectuado por el período pendiente de cumplir por la persona cuya vacante se cubra (Art.216 y 147.2 3º RRM).
+B) Aceptación
+El nombramiento de los administradores surtirá efecto desde el momento de su aceptación(214.3 LSC) Art. 215 LSC: deberá presentarse para su inscripción en el RM en el plazo de 10 días.
+Se puede hacer mediante documento privado con firma legitimada notarialmente o electrónica, además de en escritura pública.
+Es un supuesto de inscripción obligatoria. Tracto sucesivo (art 111 RRM)
+La doctrina actual de la DG entiende que este tracto no se aplica al Registro de la Propiedad.
+Crítica
+C) Certificación expedida por persona no inscrita (Art. 111 RRM)
+	1. Cuando haya sido extendida por el nombrado, sólo tendrá efecto si se acompañare notificación fehaciente del nombramiento al anterior titular, con cargo inscrito, en el domicilio de éste según el Registro. (Artículo 202 del Reglamento Notarial).
+	El Registrador no practicará la inscripción de los acuerdos certificados en tanto no transcurran quince días desde la fecha del asiento de presentación.
+	El titular anterior podrá oponerse a la práctica del asiento. Si se acredita la interposición de la querella o la falta de autenticidad, se hará constar esta circunstancia al margen del último asiento.
+	2.No será de aplicación cuando se acredite el consentimiento del anterior titular al contenido de la certificación, o se trate de fallecimiento, ausencia o incapacidad.
+Tratar de evitar el acceso al Registro Mercantil de documentos que no reúnan los debidos requisitos de validez.No se aplica si el nuevo tenía facultad certificante.
+D) Lugar de notificación
+	El que resulta de los libros registrales. 
+	La notificación notarial remitida al domicilio que consta en el Registro, por correo certificado con acuse de recibo, no sirve si es devuelta, procedería la notificación personal por el Notario que, aunque resulte fallida, sí produce el efecto notificativo.(Resolución de la DGRN de 30/01/2012).
+En RDGSJYFP de 19 de febrero 2020: 
+Caso de notificación personal notarial fallida; solo la negativa a recibir la cédula hecha por el destinatario o su representante produce los efectos de la notificación, pero no cuando se realiza en persona distinta de éstos. En este caso, debe enviar la cédula de notificación por correo certificado con acuse de recibo.
+	La constancia de la interposición de querella si bien no impide el cierre si que surte efectos de publicidad.
+2.7- DURACIÓN DEL CARGO (art 221 LSC)
+•	SRL tiempo indefinidos,salvo estatutos fijen uno detrminado,. (art 221.1 LSC). 
+•	SA plazo que señalen los estatutos, que no podrá exceder de 6 años y deberá ser igual para todos ellos. Pueden ser reelegidos por períodos de igual duración (art 221.2 LSC).
+Artículo 145 RRM. Caducidad del nombramiento.
+	1. El nombramiento de los administradores caducará cuando, vencido el plazo, se haya celebrado la Junta General siguiente o hubiese transcurrido el término legal para la celebración de la Junta que deba resolver sobre la aprobación de cuentas del ejercicio anterior. Idem 222 LSC
+	3. El Registrador hará constar la caducidad, mediante nota marginal, cuando deba practicar algún asiento en la hoja abierta a la sociedad o se hubiera solicitado certificación.”
+El plazo se cuenta desde la fecha de su nombramiento, no desde su aceptación.
+En caso de cooptación, suplentes y persona jurídica tienen reglas especiales de duración (hasta que se reúna la primera JG, hasta que trascurra el plazo del suplido o hasta que se sustituya a la física, respectivamente).
+(Resolución de la DGRN de 3 de julio de 2017) El nombramiento de los administradores caducará aunque no hubiera transcurrido el plazo de seis meses de la Junta que debe aprobar las cuentas,  si se ha celebrado antes cualquier otra junta general.
+art 171 LSC, :el que quede vigente queda facultado para convocar a ese efecto. 	convocatoria por el LJ o el RM  
+	Si no convoca puede generar responsabilidad por negligencia según STS 23 octubre 2009 y la DGR admite convocatoria por el caducado  RDG 7 /5/21
+
+Separación:  arts 223 y 224:
+Los administradores podrán ser separados en cualquier momento por la junta general aún cuando la separación no conste en el orden del día, pudiéndose exigir en la SL mayoría reforzada para la separación, que no podrá superior a 2/3 de las participaciones. Esta norma destaca el carácter esencialmente revocable del cargo.
+Respecto a SL (art 230.3 LSC)
+	La DG en resolución de 26 de julio de 1996: La misma junta que cesa, puede nombrar nuevos administradores, para evitar la acefalia pese a no constar en el orden del día.
+	La renuncia o dimisión
+art 147.1 RRM :
+1.º Mediante escrito de renuncia al cargo otorgado por el administrador y notificado fehacientemente a la sociedad,
+- O en virtud de certificación del acta de la Junta General o del Consejo, en la que conste la presentación de dicha renuncia.
+2.º deberá constar la fecha en que ésta se haya producido.
+	No cabe inscribir la renuncia del administrador único sin la previa convocatoria de la junta general convocada por él mismo si no queda ningún administrador (artículos 166, 169, 171 y 225 de la Ley de Sociedades de Capital, 147.1 y 192.2 del Reglamento del Registro Mercantil y Resoluciones de la Dirección General de los Registros y del 
+Notariado de 18 de julio de 2005, 3 de enero de 2011, 27 de marzo de 
+2014, 5 de junio de 2014, 6 de junio de 2014 y 29 de septiembre de 2014. )
+	La doctrina de la DGRN, si renuncian todos los administradores se exige que el cesante convoque la Junta General; convocada es inscribible su renuncia.
+	2.8 El cierre por falta de depósitos de cuentas y los ceses y nombramientos artículo 378 del RRM.
+	“1. Transcurrido un año desde la fecha del cierre del ejercicio social sin que se haya practicado en el Registro el depósito de las cuentas anuales debidamente aprobadas, el Registrador Mercantil no inscribirá ningún documento presentado con posterioridad a aquella fecha,. Se exceptúan cese o dimisión. Revocación o renuncia de poderes, así como a la disolución de la sociedad y al nombramiento de liquidadores y a los asientos ordenados por la Autoridad judicial o administrativa.”
+	Según la RDG 3 de octubre de 2005 a los efectos de enervar el cierre registral únicamente es necesario depositar las cuentas (o su constancia de no aprobación) correspondientes a los tres últimos ejercicios.
+Baja provisional en el índice de entidades de la AEAT art 119 IS – Art 96 RRM
+	Declarados fallidos, no hubiere presentado la declaración por este impuesto correspondiente a 3 períodos impositivos consecutivos.
+	Sólo podrán extenderse los asientos ordenados por la autoridad judicial
+	Resolución de 22 de julio y 28 de noviembre de 2019: no cabe la confusión de los efectos de este cierre por cuentas y por incumplimiento de obligaciones fiscales
+	Revocación del CIF
+	Apartado 4 de la disposición adicional sexta de la Ley 58/2003, General Tributaria (LGT) y el artículo 147 del RGAT
+	RDG 29 de julio 2021 Provoca el cierre total
+2.9 LA RETRIBUCIÓN
+	Los arts. 217 y ss: el cargo es gratuito a menos que los estatutos dispongan otra cosa, lo que exige hacer constar el sistema de retribución
+	Resolución DGSJYFP de 9 de agosto de 2019, exige que se prevea en estatutos, de forma expresa, la determinación de uno o más sistemas , de suerte que en ningún caso quede a la  voluntad de la junta general su elección o la opción entre los distintos sistemas retributivos, que pueden ser cumulativos pero no alternativos.
+	Art 217.2 El sistema de remuneración establecido determinará el concepto o conceptos retributivos a percibir por los administradores en su condición de tales y que podrán consistir, entre otros, en uno o varios de los siguientes:
+	a) una asignación fija,
+	b) dietas de asistencia,
+	c) participación en beneficios,
+	d) retribución variable con indicadores o parámetros generales de referencia,
+	e) remuneración en acciones o vinculada a su evolución,
+	f) indemnizaciones por cese, siempre y cuando el cese no estuviese motivado por el incumplimiento de las funciones de administrador y
+	g) los sistemas de ahorro o previsión que se consideren oportunos.
+En todo caso, el importe máximo de la remuneración anual del conjunto corresponde a la JG. Salvo que la junta general determine otra cosa, la distribución de la retribución entre los distintos administradores se establecerá por acuerdo de éstos y, en el caso del consejo de administración, por decisión del mismo, (217.3 LSC).
+-Artículos 218 y 219: 
+	Cuando el sistema de retribución incluya una participación en los beneficios, los estatutos determinarán la participación concreta o el porcentaje máximo de la misma, en cuyo caso la determinará la Junta General. 
+	Administradores ejecutivos:
+	La Sentencia nº 98/2018 de TS, Sala 1ª, de lo Civil, 26 de Febrero de 2018 , la norma del art. 217 LSC es aplicable en todo caso; es decir, que si se dice en los Estatutos que el cargo de administrador es gratuito, no puede el Consejo fijar retribuciones a un Consejero Delegado a quien se le encomienden funciones ejecutivas al amparo del art 249.Para el TS ELart. 217 LSC (y su desarrollo por los arts. 218 y 219) y el art. 249 LSC teoría del doble vinculo referido a que la condición de administrador embebe todos los cometidos del administrador, salvo que se trate de tareas ajenas a la gestión.
+	Por el contrario, sostiene la DGRN que la retribución de los administradores que no sean consejeros delegados o ejecutivos se rige por el primer grupo de preceptos, y la de los consejeros delegados o ejecutivos se rige exclusivamente por el art. 249 LSC, art. 217, artículos 217.3, 218 y 219, art. 217.4 arts. 218 y 219; .
+	La Resolución de 4 de junio de 2020, de la Dirección General de Seguridad Jurídica y Fe Pública debe admitirse que aunque cuando los distintos conceptos retributivos de los consejeros ejecutivos deban constar necesariamente en los estatutos sociales, podrán éstos remitirse al contrato que se celebre entre el consejero ejecutivo y la sociedad para que se detalle si se remunerará al mismo por todos o sólo por algunos de los conceptos retributivos fijados en los estatutos.
+ 
+3.-EL CONSEJO DE ADMINISTRACIÓN.
+-Art 210 cuyo párrafo 2: en la SA, cuando la administración conjunta se 
+confíe a más de dos administradores, constituirán Consejo de Administración
+	→Su regulación legal se contiene en los arts 242 y ss. LSC y en los arts 139 y ss. RRM
+	→En las sociedades cotizadas tiene carácter necesario: art. 529 bis
+3.EL CONSEJO DE 	
+ADMINISTRACIÓN.	-Sistema monista: concentra en un solo órgano las facultades de gestión y supervisión, 
+En la sociedad anónima europea se podrá optar por un sistema de administración dual (art 478 LSC) en el cual se distinguen :
+-	la dirección:
+-	el consejo de control
+3.1 COMPOSICIÓN y nombramiento: Sistemas especiales de proporcionalidad y cooptación.
+Art. 242 LSC:
+	Mínimo de 3 miembros
+	Los estatutos fijarán su número o bien el máximo y el mínimo, 
+	En la SRL no podrá ser superior a doce.
+3.EL CONSEJO DE 	→Nombramiento de los administradores por la junta general ADMINISTRACIÓN.	encuentra dos excepciones en el Consejo de Administración de las SA.
+	- sistema de representación proporcional, Cada grupo de socios de una sociedad anónima pueden elegir a un número proporcional de administradores 
+	“Artículo 243: acciones que voluntariamente se agrupen.
+	Derecho de la minoría: EJ: K/Nº, si son 4 consejeros se pueden agrupar un  ¼ o 25 % del capital.
+	La STS de 6 de marzo de 2009 y la RDGSJYFP e28 de marzo de 2022, permitió que este sistema pudiera ser utilizado por las SRL si se prevé en los estatutos para el nombramiento del consejo de administración al amparo de la autonomía de la voluntad
+	No afecta a las competencias de la Junta para su cese, ni tampoco para el cambio de órgano.
+	-Cooptación: el consejo podrá designar entre los accionistas a las 
+3.EL CONSEJO DE 	personas que hayan de ocupar las vacantesprimera junta general.	, hasta que se reúna la 
+ADMINISTRCIÓN.	Garantiza su estabilidad, revestida de un cierto carácter de           excepcionalidad. 
+	Esa Junta podrá ratificar el nombramiento por el plazo que fijen los estatutos o al menos por el tiempo que falte hasta expirar el plazo de su predecesor. En otro caso cesaría.
+	Si el plazo del consejero que ha cesado acabare antes de la Junta general indicada, deberá entenderse cesado el nombrado por cooptación; art. 139 RRM
+3.2 Cargos en el Consejo 
+Art. 138 RRM: en la inscripción del nombramiento se hará constar… el cargo para el que, en su caso, hubiese sido nombrado el miembro del Consejo de Administración.
+	Puede la JG asignar cargos a los nombrados, en otro caso, la distribución de cargos corresponderá al mismo Consejo.
+3.EL CONSEJO DE 	
+ADMINISTRACIÓN.	Ha de tener un Presidente y un Secretario y es posible que haya vicepresidente/s y Vicesecretario/s Consejero/s Delegado/s.
+	El Secretario puede no ser consejero, salvo pacto estatutario en contra.
+	EL PRESIDENTE.
+Entre sus funciones está:
+	-Convocar el consejo
+	-Presidir la JG
+	-Dar el visto bueno a las certificaciones de acuerdos Ha de ser consejero. 
+3.EL CONSEJO DE 	
+ADMINISTRACIÓN.	EL SECRETARIO
+	Sus funciones son:
+	-Firma las actas del consejo
+	- Facultad certificante de los acuerdos con el visto bueno del presidente
+	-Forma parte de la mesa de la junta como regla general
+	3.3 Reglas de Funcionamiento
+Art 23 f LSC. art 245 LSC, establece:
+3.EL CONSEJO DE 
+ADMINISTRACIÓN.		-en la SRL:los estatutos establecerán el régimen de organización y funcionamiento del consejo de administración. (art 245.1 LSC).
+	Art. 185.5 RRM los estatutos establecerán las reglas de convocatoria y constitución del órgano, así como el modo de deliberar y adoptar acuerdos por mayoría.
+	La doctrina de la DG exige que:
++ Debe incluir el plazo o antelación de convocatoria (RDGRN 4-IV-2016) y
++ modo o cómo hacer la convocatoria. (RDG 28 de febrero 2000).
++ qué mayoría se requiere para tomar acuerdos. (RDG 5 de junio de 2002).
+	-En SA, (art 245.2 LSC), no es necesario que los estatutos lo regulen
+3.EL CONSEJO DE ADMINISTRACIÓN.		→En cuanto a las sociedades cotizadas, el artículo 528 LSC establece el carácter obligatorio del reglamento del consejo de administración
+	a) Periodicidad  reuniones al menos, una vez al trimestre ex art 
+245.3.
+	b) Convocatoria: Ex artículo 246 LSC, Será convocado por el presidente o el que haga sus veces.
+	→Convocatoria	por	las	minorías	del	Consejo	.Pero	si	los administradores solicitan que convoque y el presidente sin causa justificada no lo hubiera hecho en el plazo de un mes, podrán hacerlo los miembros del consejo que constituyan al menos 1/3 del mismo.
+	Resolución de la DGRN de 14 de noviembre de 2016 no pueden restringirse, pero los estatutos podrán contener disposiciones sobre competencia para convocar el consejo más favorables
+3.EL CONSEJO DE ADMINISTRACIÓN.	Advertir que no legitima sólo para solicitar la convocatoria al presidente, sino también para convocar los propios consejeros (SAP Madrid 6-III-2009).
+
+	c) Plazo de antelación, razonable 
+	d) Lugar de celebración puede ser distinto del domicilio social
+	Salvo en la reunión solicitada por las minorías no es necesario fijar un orden del día
+	e) Los Consejeros tienen obligación de asistir
+	3.4 Constitución
+Art. 247 LSC: 
+	en las SL, concurran  un numero de consejeros previsto en los estatutos siempre que alcancen, como mínimo, la mayoría de los vocales. 
+	En la SA, concurran la mayoría de los vocales
+Ante la duda de si se habla de consejeros vigentes o del número previsto en los 
+3.EL CONSEJO DE 
+ADMINISTRACIÓN	estatutos o nombrados por la junta:
+La Resolución de la DGRN de 31 de julio de 2014 entiende que esta mayoría es la referida al número mínimo de consejeros previsto en los estatutos o al determinado por el acuerdo de nombramiento; es decir, nunca servirá la concurrencia de la mayoría de los consejeros que queden, si hay vacantes.
+	El mismo criterio adopta la Resolución de la DGRN de 3 de agosto de 2016 referido a una sociedad anónima. 
+Si el consejo tiene tres miembros y se produce una vacante, el consejo podrá convocarse y celebrarse válidamente. Mayoria absoluta o mitad más uno y 
+Redondeo por defecto (RDGRN 25/5/98)
+Sólo es deficitario cuando estén vacantes la mitad más uno de sus miembros 
+de acuerdo con los estatutos o con el número fijado por la Junta
+	La RDGSJYFP de 10 de diciembre de 2020 en una SA, confirma la nota del registrador que considero que no estaba validamente constituido en un Consejo de 4 , uno fallecido y otro se opone a la celebración, este Centro Directivo ha considerado que no puede entenderse que exista como tal consejo si ni siquiera es posible reunir el mínimo legal que determina su válida constitución –la mitad más uno de sus componentes, presentes o representados.
+3.EL CONSEJO DE ADMINISTRACIÓN	La mayoría de los vocales»; esta mayoría sólo puede estar referida, como resulta del precepto, al número previsto en los estatutos o determinado por el acuerdo de nombramiento sin
+que pueda oponerse el hecho de que en la correspondiente acta consta que se declaró por el vicepresidente válidamente constituido, tal declaración no puede, por la sola calidad de quien la formula, vincular al registrador cuando aquélla queda contradicha por la documentación aportada en términos tales que dicha declaración no puede mantenerse.
+Posibilidad de exigir que deban asistir todos:
+	La Resolución de la DGRN de 7 de octubre de 2013, en una SL considera válida la cláusula estatutaria que exige que deban concurrir todos (artículo 247).
+3.EL CONSEJO DE 
+ADMINISTRACIÓN	Es posible la representación siempre que el representante sea otro consejero:
+Art 97.4.2 RRM: se expresará el nombre de los miembros concurrentes, con indicación de los que asisten personalmente y de quienes lo hacen representados por otro miembro.
+3.5 Adopción de acuerdos
+	SRL; lo regulan los estatutos. Diversas opciones: mayoría de votos totales, votos emitidos, más votos a favor que en contra…
+	SA; (art.Art.248.1 LSC) mayoría absoluta de los Consejeros concurrentes a la sesión
+3.EL CONSEJO DE 
+ADMINISTRACIÓN	❖Mayorías necesarias para la válida aprobación de un acuerdo, el art. 248.1 LSC establece, para las anónimas, la regla de la mayoría absoluta de los consejeros concurrentes.
+❖En la sociedad limitada, el art. 245.1 LSC obliga a que los estatutos prevean el régimen de mayorías, “Deben adoptarse por mayoría”, por ejemplo, es valida la mayoría simple (más votos a favor que en contra del acuerdo).
+Normas comunes:
+	La regla de la mayoría es inderogable por responder al principio democrático y ser órgano colegiado y, por tanto, puede reforzarse, (RDGRN 7-X-2013) pero que no puede establecerse la exigencia de unanimidad para la adopción de determinados acuerdos.
+3.EL CONSEJO DE 
+ADMINISTRACIÓN		Para el nombramiento de Consejero Delegado el artículo 249 de la Ley de Sociedades de Capital, que exige el voto favorable de las dos terceras partes de los componentes del consejo. (Resolución de la DGRN de 31 de octubre de 2019 y 9 junio 2020, estas mayorías hay que salvarlas en estatutos).
+	 Aquellos que estén en conflicto de intereses deben abstenerse.(art 228 c) LSC)
+	El art 248.2 LSC prevé que en SA la votación por escrito y sin sesión “cuando ningún consejero se oponga a este procedimiento”. Implica que no hay deliberación, de la circunstancia de falta de oposición se debe dejar constancia en el acta (art. 100RRM). En la doctrina también se admite para las SL .
+4º Los acuerdos podrán ser impugnados (ex art 251) 
+	Por los administradores
+	Por los socios que tuvieren más del 1% del capital social
+➢Libro de actas (art 106 RRM), 
+	“1. La sociedad podrá llevar un libro de actas para cada órgano.
+	2. Deberán legalizarse por el Registrador Mercantil.
+3.EL CONSEJO DE 
+ADMINISTRACIÓN	Corresponde al secretario su redacción.
+➢Contenido del acta. art 97 RRM
+➢Su aprobación. Art 99 RRM, en la forma estatutaria, y si no está previsto en la misma reunión o en la siguiente. Salvo que se haya levantado acta notarial (Art.103RRM).
+➢El acta ha de ser firmada por el Presidente y el Secretario (art. 250 LSC).
+➢Formalización publica de los acuerdos de los órganos colegiados. Art 107  y 108 RRM
+3.EL CONSEJO DE 
+ADMINISTRACIÓN	Debe distinguirse la persona o personas legitimadas para exteriorizar esa voluntad, para acreditar su existencia y contenido (secretario con el VB presidente, que es el que tiene la facultad certificante); y la persona que puede si es necesario formalizarla en escritura pública (mas amplia, pueden ser además del Secretario, apoderados con facultad de elevar, u algún consejero facultado además de los certificantes).
+
+
+Resolución de 23 de octubre de 2020, de la Dirección General de Seguridad Jurídica y Fe Pública, debe constar en dicha certificación el nombre de los consejeros asistentes para poder comprobar el registrador que quienes hayan concurrido son consejeros, se encuentran inscritos y son suficientes para la válida constitución del órgano
+3.6 Certificación de los acuerdos. Art. 109 RRM
+Los facultados para certificar se recogen en el art.109 RRM: Administrador único, solidario, los conjuntos a quienes corresponde el poder de representación, al secretario o vicesecretario del Consejo con el VB del presidente o vicepresidente Destacar :
+	Art. 109.2 RRM: Cargo vigente en el momento de la expedición. Para la inscripción de los acuerdos contenidos en la certificación deberá haberse inscrito, previa o simultáneamente, el cargo del certificante.
+3.EL CONSEJO DE 
+ADMINISTRACIÓN	Nunca puede certificar un apoderado(Resolución de la DGRN de 15 de enero de 2004).
+Cargo no vigente al certificar o al formalizar aunque lo tuviera en la fecha del acuerdo. Impide certificar y elevar a público (Resolución de la DGRN de 24 de
+
+abril de 2014)
+	Art 109.3 RRM: La certificación de las decisiones del socio único también corresponderá a éste.
+	Art. 109.4 RRM: No se podrán certificar acuerdos que no consten en actas aprobadas y firmadas o en acta notarial.
+	4.-EL CONSEJERO DELEGADO
+	A) ADMISIBILIDAD:
+	Art. 249.1 LSC, cuando los estatutos de la sociedad no dispusieran lo contrario, el consejo podrá designar entre sus miembros a uno o varios consejeros delegados o comisiones ejecutivas, estableciendo el contenido, los límites y las modalidades de delegación.
+Puede hacerse:
+	en un órgano pluripersonal:Comisión ejecutiva
+	unipersonal:Consejero Delegado,
+4. El Consejero Delegado		→pudiendo coexistir ambos notas:
+	1- Solo puede delegar el Consejo, no las demás formas de OA. Y puede establecerse en
+estatutos la aprobación por JG (R 12 mayo 1999)
+	2- No privan al Consejo de sus facultades, que las mantiene con carácter concurrente. Las puede ejercer si lo desea (R 12 mayo de 1999)
+	3- No exonera de responsabilidad al delegante, todos responden solidariamente (237 LSC)
+	4- Solo puede recaer en Consejeros
+	5- El ámbito de representación de los delegados, frente a terceros, será el mismo que el de los administradores (art 149 RRM), determinada por el art 234 LSC
+
+4.-EL 
+CONSEJERO DELEGADO	La Sentencia del Tribunal Superior de Justicia (STSJ) de Andalucía, Sala de lo Social, de 22 de junio 2001 trata sobre la diferencia entre consejero delegado y apoderamiento: las limitaciones que puedan establecerse a la representación de los delegados no tendrán eficacia frente a terceros aunque se hallen inscritas en el registro (en el caso de los apoderados sí tendrán eficacia), de manera que cuando éstos se extralimiten no obligarán a la sociedad.
+	B) REQUISITOS: Mayoria cualificada e inscripción constitutiva Delegación:
+➢voto favorable de 2/3 de los componentes del consejo.
+➢inscripción en el R.M (se trata de un supuesto de inscripción constitutiva). (art 249.2 LSC) 
+4.-EL 
+CONSEJERO DELEGADO		La inscripción exige escritura – art.151 RRM- que exprese las facultades que se delegan o todas las delegables, y si son varios formas de actuación, pero para la aceptación no será necesaria en escritura pública
+	Su cese: Podrá tener lugar por cese como consejero o porque cese sólo como 
+Delegado, siguiendo como consejero. La revocación corresponde al órgano que lo nombro , y si es el Consejo basta la mayoría ordinaria 
+	Retribución La reforma 3 diciembre 2014 para mejora del buen gobierno corporativo introdujo en el art 249.3 la necesidad de que se celebre un contrato entre el consejero delegado y la sociedad.El contrato deberá incorporarse como anejo al acta.
+
+C) FACULTADES INDELEGABLES: art 249bis: 
+➢De supervisión: dispensa de conflicto
+➢de decisión, como estrategia general
+➢de organización interna,  nombramiento y cese de consejeros
+➢competencias naturales: formular cuentas, convocar JG, retribución
+4.-EL 
+CONSEJERO DELEGADO	➢Y las delegadas por la junta sin autorización para delegar 
+D) ÁMBITO REPRESENTACIÓN 
+No pueden limitarse frente a tercero las facultades del consejero delegado (149.3 RRM)
+En RDGSJYFP 10.02.2021 señala que no existiría ningún obstáculo para la inscripción de limitaciónes si en el acuerdo de delegación quedara siempre a salvo expresamente lo dispuesto en el artículo
+234 LSC, eliminando así todas ambigüedad e incertidumbre
+	5- RESPONSABILIDAD DE LOS 
+ADMINISTRADORES
+	5.1 DEBERES DE LOS ADMINISTRADORES
+5-
+RESPONSABI
+LIDAD DE LOS 
+ADMINISTRA
+DORES		→Materia regulada en los arts 225 y ss LSC.
+	Dos deberes: el de diligencia y el de lealtad:
+1- Deber general de diligencia: Se establece (art 225):
+Tal y como resulta de la modificación de la LSC  ley 5/2021 de 27 de abril: a)	Diligencia de un ordenado empresario y subordinar su interés al de la empresa.
+b)	Tener la dedicación adecuada.
+c)	Deber de exigir y el derecho de recabar de la sociedad la información adecuada
+Protección de la discrecionalidad empresarial: art. 226 LSC
+2- Deber de lealtad(art 227 LSC):
+Desempeñar el cargo con la lealtad de un fiel representante, obrando de buena fe y en el mejor interés de la sociedad.
+5-
+RESPONSABI
+LIDAD DE 
+LOS 
+ADMINISTRA
+DORES	-La regulación del deber de lealtad  está en los arts.227 y ss): A tal efecto se establecen:
+➢Obligaciones básicas derivadas del deber de lealtad ART 228 LSC.
+➢Deberes de evitación de situaciones de conflicto de interés; q se traducen :
+➢en prohibiciones, art  229 (autocontrato, usar activos, utilizar el nombre..) y competir con la sociedad. 
+Competencia efectiva actual o potencial o que sitúe al administrador en conflicto permanente de intereses con la 
+-Se intensifica la tutela. Indemnizar el daño y restituir el enriquecimiento sociedad. ( art 229.1 f) LSC). SAP Navarra 843/2020, 18 de Noviembre de 2020
+➢Las prohibiciones serán de aplicación tanto en relación con el administrador como en relación con personas con él vinculadas (art 231 LSC). 
+5-
+RESPONSABI
+LIDAD DE 
+LOS 
+ADMINISTRA
+DORES	➢El régimen es imperativo (art 230.1 LSC)
+➢No puede dispensarse con carácter genérico el deber de evitar el conflicto de intereses. Art 230 LSC
+➢Se establece procedimiento para solventar situaciones concretas de conflicto de interés
+➢Ahora bien, la dispensa de la prohibición de competencia solo la puede otorgar la Junta cuando no quepa esperar daño o se compense con el beneficio, y en acuerdo separado (art 230.4 
+LSC). Con mayoría reforzada de 2/3 en SL
+	5.2 La acción de responsabilidad (arts. 236 a 241LSC )
+	La responsabilidad que tratamos es la que se deriva del ejercicio de su cargo:
+5-
+RESPONSABI
+LIDAD DE 
+LOS 
+ADMINISTRA
+DORES		a) Presupuestos de hecho: Antijuridicidad, dolo o culpa, daño y nexo causal-
+	b) Extensión subjetiva:art 236 LSC (solidaria)de todos los que hubieren adoptado el acuerdo o realizado el acto lesivo.
+	Responden también los administradores de hecho, persona física de la jurídica administradora, la jurídica…)
+❖- El hecho de que el acto o acuerdo lesivo haya sido adoptado, autorizado o ratificado por junta general en ningún caso exonerará de responsabilidad.
+❖- Sólo quedará liberado el administrador si prueba que, no habiendo intervenido en su adopción y ejecución, desconocía su existencia o, conociéndola, hizo todo lo conveniente para evitar el daño o, al menos, se opuso expresamente a aquél
+❖- Cesado el administrador, deja de tener responsabilidad por los actos posteriores de la sociedad
+c)  Se distingue entre acción social e individual: 
+1.-La acción social requiere un perjuicio a la sociedad, (art 236 LSC) 
+5-
+RESPONSABI
+LIDAD DE 
+LOS  
+ADMINISTRA
+DORES	y se ejercitará
+	a) por la sociedad, previo acuerdo JG sin necesidad que conste en el orden del dia y con mayoría ordinaria máxima
+	b) por el socio o socios con 5% del capital , subsidiariamente, salvo que se infrinja el deber de lealtad que no requiere acuerdo JG
+	c) Acreedores de la sociedad, subsidaria de las anteriores y si el patrimonio ess insuficiente para pagar sus créditos
+2.-La individual  Podrán ejercitar acción  individual los socios o 
+terceros cuyos intereses se hayan lesionado directamente
+	Art. 241 LSC: acciones de indemnización 
+	Esta acción individual de responsabilidad, como señala la STS 87/2019, 13 de Febrero de 2019, debe cumplir los ss. requisitos: 
+	"i)  Que sea imputable al órgano de administración en cuanto tal; 
+	ii) que la conducta del administrador sea antijurídica; 
+5-
+RESPONSABI
+LIDAD DE 
+LOS 
+ADMINISTRA
+DORES		iii) sea susceptible de producir un daño; 
+	(iv) daño directo al tercero (...), y 
+	(v) la relación de causalidad
+Extinción responsabilidad
+	Fallecimiento del administrador, a menos que haya sentencia:
+Sentencia nº 311/2015 de 16 de Diciembre de 2015 de JM nº 1 de Badajoz.
+	La Ley 31/2014, de 3 de diciembre, por la que se modifica la Ley de Sociedades de Capital para la mejora del gobierno corporativo art.
+
+241 bis, , prescribirá a los cuatro años a contar desde el día en que hubiera podido ejercitarse.
+Otras acciones derivadas de otras posibles responsabilidades
+	a).- La responsabilidad de los administradores por no presentar
+5-
+RESPONSABI
+LIDAD DE 
+LOS 
+ADMINISTRA
+DORES	la escritura de constitución social a inscripción en el plazo de 2 meses. Art 32 LSC
+	b).-La responsabilidad administrativa por infringir las normas sobre participaciones propias. Art 157 LSC
+	c.- La responsabilidad de los administradores en el caso de adquisición originaria de acciones o participaciones por persona interpuesta. Art. 137 LSC,
+	d).-La responsabilidad por incumplir la obligación de los administradores de convocar Junta en determinados casos :
+	Supuestos
+5-
+RESPONSABI
+LIDAD DE 
+LOS 
+ADMINISTRA
+DORES		.- En el supuesto de disolución o el concurso art. 367 LSC cuando dice que responderán solidariamente de las obligaciones sociales posteriores al acaecimiento de la causa legal de disolución los administradores que incumplan la obligación de convocar en el plazo de dos meses
+	La responsabilidad objetiva o cuasi objetiva. STS de 13 de marzo de 2012
+.- La responsabilidad en el caso de aportaciones no dinerarias.
+	Para las sociedades de responsabilidad limitada responden de la valoración salvo que haya informe experto (art. 73.3 LSC, art. 74.3 art. 76 LSC).
+	Para las sociedades anónimas el experto es obligatorio : art. 68 LSC y art. 77 LSC.
+
+	.- La responsabilidad por falta de colaboración con los liquidadores, si fuesen requeridos. art. 374 LSC.
